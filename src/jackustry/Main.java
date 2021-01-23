@@ -1,14 +1,16 @@
-package sonnicon.modtemplate;
+package jackustry;
 
 import mindustry.mod.Mod;
 
-public class ModTemplate extends Mod{
-
+public class Jackustry extends Mod{
+    
     @Override
     public void init(){
+        
     }
-
+    
     @Override
     public void loadContent(){
+        
     }
 }
