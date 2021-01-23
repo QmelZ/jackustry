@@ -5,5 +5,5 @@
     "description": "Jackustry v3: hackustry v3 in java",
     "version": "3j",
     "minGameVersion": 123,
-    "main": "jackustry.Main"
+    "main": "jackustry.Jackustry"
 }

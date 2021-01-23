@@ -2,7 +2,7 @@ package jackustry;
 
 import mindustry.mod.Mod;
 
-private class Jackustry extends Mod{
+public class Jackustry extends Mod{
     
     @Override
     public void init(){
